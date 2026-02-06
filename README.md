@@ -52,7 +52,7 @@ Konsekuensinya, jika kita lupa membuat method yang sudah dijanjikan di interface
 
 ---
 
-3. Error yang muncul:  ![error3](/OOP%20Python/output%20praktikum/eror3.png)
+3. Error yang muncul:  ![error3](eror3.png)
 
 ---
 
@@ -61,8 +61,8 @@ Konsekuensinya, jika kita lupa membuat method yang sudah dijanjikan di interface
 
 ---
 
-5.  1. error yang muncul:  ![error 5.1](/OOP%20Python/output%20praktikum/eror5.1.png)
-    2. error yang muncul:  ![error 5.2](/OOP%20Python/output%20praktikum/eror5.2.png)
+5.  1. error yang muncul:  ![error 5.1](eror5.1.png)
+    2. error yang muncul:  ![error 5.2](eror5.2.png)
 
 ---
 
@@ -73,3 +73,4 @@ Zilong (Fighter) memukul dengan pedang! Slash!
 Gord (Mage) menembakkan Bola Api! Boom!  
 Angela tidak menyerang, tapi menyembuhkan teman!  
     2. Yang terjadi, Archer tidak menjalankan serangan panah, melainkan memakai method serang() milik class Hero (parent), sehingga keluar output “Hero menyerang dengan tangan kosong.”
+
